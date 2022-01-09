@@ -8,3 +8,10 @@ Primtively, we decided to lay out our issues and loopholes in our initial proble
 
 
 ### Emotions detection:
+In order to build a model able to detect the emotional expression, we gathered data from Kaggle and performed the transform learning by using mobileNet and we got a disappointing accuracy score with 0.450 on the training dataset, and 0.382 on the validation dataset.
+
+* Accuracy Score:
+<img width="392" alt="Screen Shot 2022-01-09 at 10 51 23 PM" src="https://user-images.githubusercontent.com/89771282/148698607-e4457239-b353-40bd-83a6-6ffd6143bc6c.png">
+
+* Loss Score:
+ <img width="379" alt="Screen Shot 2022-01-09 at 10 51 39 PM" src="https://user-images.githubusercontent.com/89771282/148698636-60141fa2-60ad-45a9-999a-719dc6d36f2b.png">
