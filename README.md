@@ -1,6 +1,6 @@
 # Employee Attendance on Raspberry Pi using Facial Recognition
 
-This project is done during SDAIA Academy Bootcamp as a part of METIS course requirements in collaboration with [Abdulrahman Alrubaiya](https://github.com/abdulium) & [Mohammed Alghamedi](https://github.com/MohammedDev315)
+This project is done during SDAIA Academy Bootcamp as a part of METIS Kaplan course requirements in collaboration with [Abdulrahman Alrubaiya](https://github.com/abdulium) & [Mohammed Alghamedi](https://github.com/MohammedDev315)
 
 ## Abstract
 With all the rapid changes in modern world, facial recognition been an integral part in almost all domains. From safety and security to industrialization, that concept grew largerly; in addition, utilizing that to identify objects and people in a quickly manner is a must in a fast growing economy. Many applications can take advantage of object detection. In our project, we are trying to record employee attendence using facial recognition on Raspberry Pi microcontroller.
@@ -21,4 +21,5 @@ Our data is going to be combined with transfer learning and pre-trained models. 
 * Matplotlib
 * Seaborn 
 * Twilio - Communication API (SMS)
+
 
